@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" name="text formatter" skipped="0" tests="1" time="2.179156">
+<testcase classname="text formatter.Backtrace formatting for failing specs in multiple files" name="Backtrace formatting for failing specs in multiple files" time="2.179156">
+</testcase>
+</testsuite>

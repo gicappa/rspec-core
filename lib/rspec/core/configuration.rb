@@ -827,6 +827,9 @@ MESSAGE
         when 'p', 'progress'
           require 'rspec/core/formatters/progress_formatter'
           RSpec::Core::Formatters::ProgressFormatter
+        when 'j', 'junit'
+          require 'rspec/core/formatters/junit_formatter'
+          RSpec::Core::Formatters::JunitFormatter
         end
       end
 
